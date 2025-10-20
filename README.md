@@ -1,1 +1,1 @@
-https://github.com/pgridyakin-ctrl/script
+https://roadmap.sh/projects/server-stats
